@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Former SDE Intern @Amazon | Currently pursuing 4th year B.Tech in VR Siddhartha Engineering College.
+ Software Developer DBS| Former SDE Intern @Amazon |  B.Tech CSE VR Siddhartha Engineering College.
 </p>
 
 <p align='center'>
