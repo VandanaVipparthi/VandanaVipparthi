@@ -32,5 +32,5 @@
 ## Education
 
 - 📖 **B.Tech Computer Science and Engineering**\
-📆 2019 - 2023 (CGPA : 9.2)\
+📆 2019 - 2023 (CGPA : 9.3)\
 📍 **Velagapudi Ramakrishna Siddhartha Engineering College** - Vijayawada, India
